@@ -9,14 +9,23 @@ Mi objetivo es construir sitios web que sean funcionales y fáciles de usar, per
 ## Tecnologías:
 #### Desarrollo Móvil:
 [![Kotlin](https://img.shields.io/badge/Kotlin-A97BFF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
-[![JetpackCompose](https://img.shields.io/badge/Jetpack%20Compose-89F8C7?style=for-the-badge&logo=jetpackcompose&logoColor=white&labelColor=386fb2&logoBgColor=FF0000)]()
+[![JetpackCompose](https://img.shields.io/badge/Jetpack%20Compose-89F8C7?style=for-the-badge&logo=jetpackcompose&logoColor=white&labelColor=101010&logoBgColor=101010)]()
 
 #### Desarrollo Web:
+[![PHP](https://img.shields.io/badge/Php-777BB3?style=for-the-badge&logo=php&logoColor=white&labelColor=101010&logoBgColor=101010)]()
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=101010)]()
 [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white&labelColor=101010)]()
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)]()
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://www.c-sharpcorner.com/)
 
+
+#### Bases de Datos:
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
+[![SqlServer](https://img.shields.io/badge/Sql%20Server-47A248?style=for-the-badge&logo=sqlserver&logoColor=white&labelColor=101010)]()
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)]()
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
 <!--
 **JosueAVD27/JosueAVD27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
