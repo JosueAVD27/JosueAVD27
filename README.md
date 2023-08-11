@@ -33,6 +33,7 @@ Mi objetivo es construir sitios web que sean funcionales y fáciles de usar, per
 [![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white&labelColor=101010)]()
 [![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-652800?style=for-the-badge&logo=adobe%20illustrator&logoColor=white&labelColor=101010)]()
 [![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=white&labelColor=101010)]()
+<br>
 [![OBS Studio](https://img.shields.io/badge/OBS%20Studio-302E31?style=for-the-badge&logo=obs%20studio&logoColor=white&labelColor=101010)]()
 [![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white&labelColor=101010)]()
 
