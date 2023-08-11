@@ -27,11 +27,11 @@ Mi objetivo es construir sitios web que sean funcionales y fáciles de usar, per
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)]()
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
-[![SqlServer](https://img.icons8.com/dotty/30/FFFFFF/sql.png)]() [![SqlServer Badge](https://img.shields.io/badge/Sql%20Server-652800?style=for-the-badge&logo=sqlserver&logoColor=white&labelColor=101010)]()
+[![SqlServer](https://img.icons8.com/dotty/30/FFFFFF/sql.png)]() [![SqlServer Badge](https://img.shields.io/badge/Sql%20Server-FF9A00?style=for-the-badge&logo=sqlserver&logoColor=white&labelColor=101010)]()
 
 #### Diseño:
 [![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white&labelColor=101010)]()
-[![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white&labelColor=101010)]()
+[![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-652800?style=for-the-badge&logo=adobe%20illustrator&logoColor=white&labelColor=101010)]()
 [![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=white&labelColor=101010)]()
 [![OBS Studio](https://img.shields.io/badge/OBS%20Studio-302E31?style=for-the-badge&logo=obs%20studio&logoColor=white&labelColor=101010)]()
 [![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white&labelColor=101010)]()
