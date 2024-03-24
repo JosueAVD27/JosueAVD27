@@ -1,10 +1,10 @@
-## Hola, mi nombre es Armando Josue Velasquez Delgado 👋😎<br>
+## Hola, mi nombre es Armando Josue Velasquez Delgado 👋<br>
 
 ### Full Stack
 
-Como Ingeniero en Tecnologías de la Información y Comunicación con experiencia en desarrollo web, diseño gráfico y marketing digital. Me apasiona convertir problemas complejos en diseños sencillos, bonitos e intuitivos.
+Como Ingeniero en Tecnologías de la Información, cuento con experiencia tanto en el desarrollo de aplicaciones back-end y front-end, disfruto trabajando en equipos multidisciplinarios para convertir desafíos complejos en soluciones innovadoras.
 
-Mi objetivo es construir sitios web que sean funcionales y fáciles de usar, pero también atractivos y personalizados para transmitir la identidad y mensaje de cada cliente de manera creativa. He trabajado con varios lenguajes de programación y tengo experiencia en diseño UI/UX.
+Estoy comprometido con el progreso en todos los aspectos de mi vida y siempre estoy buscando nuevas oportunidades para crecer profesionalmente. Soy adaptable, autodidacta y responsable, y estoy listo para enfrentar nuevos desafíos con entusiasmo y determinación.
 
 ## Tecnologías:
 #### Desarrollo Móvil:
