@@ -14,13 +14,16 @@ Estoy comprometido con el progreso en todos los aspectos de mi vida y siempre es
 
 #### Desarrollo Web:
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=101010)]()
-[![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white&labelColor=101010)]()
+[![React.js](https://img.shields.io/badge/React-58c4dc?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
 [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white&labelColor=101010)]()
 <br>
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)]()
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![PHP](https://img.shields.io/badge/Php-777BB3?style=for-the-badge&logo=php&logoColor=white&labelColor=101010&logoBgColor=101010)]()
+[![Fast Api](https://img.shields.io/badge/Fast%20Api-04988a?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=101010)]()
+<br>
+[![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white&labelColor=101010)]()
+[![Socket.io](https://img.shields.io/badge/Socket.io-ffffff?style=for-the-badge&logo=socket.io&logoColor=white&labelColor=101010)]()
 
 #### Bases de Datos:
 [![SqlServer](https://img.icons8.com/dotty/30/FFFFFF/sql.png)]() [![SqlServer Badge](https://img.shields.io/badge/Sql%20Server-FF9A00?style=for-the-badge&logo=sqlserver&logoColor=white&labelColor=101010)]()
@@ -29,6 +32,14 @@ Estoy comprometido con el progreso en todos los aspectos de mi vida y siempre es
 <br>
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
+
+#### Analísis de datos:
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+[![Orange](https://img.shields.io/badge/Orange-e9742e?style=for-the-badge&logo=orange&logoColor=white&labelColor=101010)]()
+[![Anaconda](https://img.shields.io/badge/Anaconda-3ab12a?style=for-the-badge&logo=anaconda&logoColor=white&labelColor=101010)]()
+<br>
+[![Google Colab](https://img.shields.io/badge/Google%20Colab-f9ab00?style=for-the-badge&logo=googlecolab&logoColor=white&labelColor=101010)]()
+[![Jupyter Notebook](https://img.shields.io/badge/Jupyter-eb7325?style=for-the-badge&logo=Jupyter&logoColor=white&labelColor=101010)]()
 
 #### Diseño:
 [![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white&labelColor=101010)]()
